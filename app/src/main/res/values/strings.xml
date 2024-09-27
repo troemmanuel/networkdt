@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">NetworkDT</string>
+<string name="network_reset">Le réseau a été réinitialisé</string>
+<string name="reset_network">Réinitialiser le réseau</string>
+<string name="add_object_mode">Mode ajout objet</string>
+<string name="add_connection_mode">Mode ajout connexion</string>
+<string name="edit_mode">Mode modification</string>
+</resources>
